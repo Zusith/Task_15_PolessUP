@@ -13,9 +13,8 @@ int FindStrBeauty(string text)
 
     CountMostAndLeastCommonElementsInGroup(text, most_common_element, least_common_element, out int countmost, out int countleast);
     if (countmost == countleast)
-    {
         return countmost;
-    }
+
     return countmost - countleast;
 }
 
