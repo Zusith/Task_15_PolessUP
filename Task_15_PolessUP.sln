@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task_15_PolessUP", "Task_15_PolessUP\Task_15_PolessUP.csproj", "{B4AC41B4-01F7-4322-8D1B-32F14BF113FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4AC41B4-01F7-4322-8D1B-32F14BF113FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4AC41B4-01F7-4322-8D1B-32F14BF113FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4AC41B4-01F7-4322-8D1B-32F14BF113FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4AC41B4-01F7-4322-8D1B-32F14BF113FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {300BD5C8-3781-4607-9D43-8784D27F37F9}
+	EndGlobalSection
+EndGlobal
